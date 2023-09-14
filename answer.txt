@@ -5,3 +5,8 @@
 3. Sprint Planning Meeting: determine what to complete in coming sprint, move stories in sprint scope from backlog to current sprint
 Daily Scrum/Standup Meeting: members discuss work completed, work plan for the day and any blockers
 Spring Restrospective Meeting: discuss work complete and move incomplete work to bacl;pg, close sprint
+
+
+4. Epic Captures a large body of work that can be broken down into several smaller stories
+Story: A software system requirement that is expressed in a few short sentences
+Task: A task represents work that needs to be done 
