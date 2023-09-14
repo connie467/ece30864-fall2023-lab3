@@ -1,3 +1,7 @@
 1. Product leader is equivalent. Product owner handles release management and stake holder management
 
 2.Scrum Master is responsible for all scrum related tasks, including JIRA tooling, facilitating sprints and meetings, standups. Product Owner sets the direction of the team
+
+3. Sprint Planning Meeting: determine what to complete in coming sprint, move stories in sprint scope from backlog to current sprint
+Daily Scrum/Standup Meeting: members discuss work completed, work plan for the day and any blockers
+Spring Restrospective Meeting: discuss work complete and move incomplete work to bacl;pg, close sprint
