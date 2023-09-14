@@ -1,2 +1,3 @@
 1. Product leader is equivalent. Product owner handles release management and stake holder management
 
+2.Scrum Master is responsible for all scrum related tasks, including JIRA tooling, facilitating sprints and meetings, standups. Product Owner sets the direction of the team
